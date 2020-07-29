@@ -1,2 +1,2 @@
-Course Project
+Symfony Course Project
 create small booking app
